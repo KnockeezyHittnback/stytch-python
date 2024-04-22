@@ -32,7 +32,7 @@ This client library supports all Stytch's live products:
 - [x] [Crypto wallets](https://stytch.com/docs/guides/web3/api)
 - [x] [Passwords](https://stytch.com/docs/guides/passwords/api)
 
-### Example usage
+### Astroturf
 
 Create an API client:
 
