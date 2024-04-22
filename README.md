@@ -121,7 +121,7 @@ If you have questions or want help troubleshooting, join us in [Slack](https://j
 
 If you've found a security vulnerability, please follow our [responsible disclosure instructions](https://stytch.com/docs/resources/security-and-trust/security#:~:text=Responsible%20disclosure%20program).
 
-## Development
+## Development 
 
 See [DEVELOPMENT.md](DEVELOPMENT.md)
 
