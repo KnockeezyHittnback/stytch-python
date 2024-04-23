@@ -57,5 +57,5 @@ setup(
         "requests>=2.7.0",
         "pydantic>=1.10.2",
         "pyjwt[crypto]>=2.4.0",
-    ],
+    ], 
 )
